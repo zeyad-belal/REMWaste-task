@@ -1,4 +1,4 @@
-import { STEPS, STEP_STATUS } from '../constants/steps'
+import { STEPS } from '../constants/steps'
 import StepItem from './StepItem'
 
 const Header = () => {
